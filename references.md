@@ -1,6 +1,3 @@
 # References
 
-* nonocat 167 😈
-
-* hello there 
-
+* octocat 1 😈
